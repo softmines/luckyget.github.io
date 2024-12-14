@@ -1,0 +1,76 @@
+Uri: https://fonts.cdnfonts.com/css/sf-pro-display
+File Name: C:\Users\Użytkownik\Desktop\верстка\verxlucky.ru\css\sf-pro-display
+Content Type: text/css
+
+Uri: https://fonts.cdnfonts.com/s/59278/SFPRODISPLAYBLACKITALIC.woff
+File Name: C:\Users\Użytkownik\Desktop\верстка\verxlucky.ru\s\59278\SFPRODISPLAYBLACKITALIC.woff
+Content Type: font/woff
+
+Uri: https://fonts.cdnfonts.com/s/59278/SFPRODISPLAYBOLD.woff
+File Name: C:\Users\Użytkownik\Desktop\верстка\verxlucky.ru\s\59278\SFPRODISPLAYBOLD.woff
+Content Type: font/woff
+
+Uri: https://fonts.cdnfonts.com/s/59278/SFPRODISPLAYHEAVYITALIC.woff
+File Name: C:\Users\Użytkownik\Desktop\верстка\verxlucky.ru\s\59278\SFPRODISPLAYHEAVYITALIC.woff
+Content Type: font/woff
+
+Uri: https://fonts.cdnfonts.com/s/59278/SFPRODISPLAYLIGHTITALIC.woff
+File Name: C:\Users\Użytkownik\Desktop\верстка\verxlucky.ru\s\59278\SFPRODISPLAYLIGHTITALIC.woff
+Content Type: font/woff
+
+Uri: https://fonts.cdnfonts.com/s/59278/SFPRODISPLAYMEDIUM.woff
+File Name: C:\Users\Użytkownik\Desktop\верстка\verxlucky.ru\s\59278\SFPRODISPLAYMEDIUM.woff
+Content Type: font/woff
+
+Uri: https://fonts.cdnfonts.com/s/59278/SFPRODISPLAYREGULAR.woff
+File Name: C:\Users\Użytkownik\Desktop\верстка\verxlucky.ru\s\59278\SFPRODISPLAYREGULAR.woff
+Content Type: font/woff
+
+Uri: https://fonts.cdnfonts.com/s/59278/SFPRODISPLAYSEMIBOLDITALIC.woff
+File Name: C:\Users\Użytkownik\Desktop\верстка\verxlucky.ru\s\59278\SFPRODISPLAYSEMIBOLDITALIC.woff
+Content Type: font/woff
+
+Uri: https://fonts.cdnfonts.com/s/59278/SFPRODISPLAYTHINITALIC.woff
+File Name: C:\Users\Użytkownik\Desktop\верстка\verxlucky.ru\s\59278\SFPRODISPLAYTHINITALIC.woff
+Content Type: font/woff
+
+Uri: https://fonts.cdnfonts.com/s/59278/SFPRODISPLAYULTRALIGHTITALIC.woff
+File Name: C:\Users\Użytkownik\Desktop\верстка\verxlucky.ru\s\59278\SFPRODISPLAYULTRALIGHTITALIC.woff
+Content Type: font/woff
+
+Uri: https://fonts.googleapis.com/css2?family=Prosto+One&display=swap
+File Name: C:\Users\Użytkownik\Desktop\верстка\verxlucky.ru\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/prostoone/v19/OpNJno4VhNfK-RgpwWWxpio.ttf
+File Name: C:\Users\Użytkownik\Desktop\верстка\verxlucky.ru\s\prostoone\v19\OpNJno4VhNfK-RgpwWWxpio.ttf
+Content Type: font/ttf
+
+Uri: https://verxlucky.ru/
+File Name: C:\Users\Użytkownik\Desktop\верстка\verxlucky.ru\index.htm
+Content Type: text/html
+
+Uri: https://verxlucky.ru/images/1win_logo.png
+File Name: C:\Users\Użytkownik\Desktop\верстка\verxlucky.ru\images\1win_logo.png
+Content Type: image/png
+
+Uri: https://verxlucky.ru/images/bg.jpg
+File Name: C:\Users\Użytkownik\Desktop\верстка\verxlucky.ru\images\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://verxlucky.ru/images/Lucky.svg
+File Name: C:\Users\Użytkownik\Desktop\верстка\verxlucky.ru\images\Lucky.svg
+Content Type: image/svg+xml
+
+Uri: https://verxlucky.ru/images/obl.svg
+File Name: C:\Users\Użytkownik\Desktop\верстка\verxlucky.ru\images\obl.svg
+Content Type: image/svg+xml
+
+Uri: https://verxlucky.ru/index1.css
+File Name: C:\Users\Użytkownik\Desktop\верстка\verxlucky.ru\index1.css
+Content Type: text/css
+
+Uri: https://verxlucky.ru/script.js
+File Name: C:\Users\Użytkownik\Desktop\верстка\verxlucky.ru\script.js
+Content Type: application/javascript
+
